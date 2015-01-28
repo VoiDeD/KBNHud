@@ -28,7 +28,7 @@ Scheme
 		///////////            IMPORTANT DETAILS!           /////////// 
 		///////////////////////////////////////////////////////////////
 		
-		"Damage Numbers"      		"255 255 255 255"
+		"Damage Numbers"      		"25 255 25 255"
 	
 		"Low Health flash 1"        "255 0 0 255"
 		"Low Health flash 2"        "255 75 75 255"
