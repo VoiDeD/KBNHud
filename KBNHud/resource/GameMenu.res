@@ -49,7 +49,7 @@
 	}
 	"KBNHudButton"
     {
-        "command" "engine play vo/sniper_domination03"
+        "command" "engine play vo/pyro_laughshort01"
         "label" "                         "
     }
 	"TrainingButton"
