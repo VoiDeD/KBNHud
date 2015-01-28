@@ -27,7 +27,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"kbnMedium12"
+		"font"			"kbnBlack14"
 		"fgcolor_override"			"Damage Numbers"	
 	}
 	"DamageAccountValueShadow"
@@ -45,6 +45,6 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"kbnMedium12"
+		"font"			"kbnBlack14"
 	}
 }
