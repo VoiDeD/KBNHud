@@ -352,7 +352,7 @@ Scheme
 			"5"
 			{
 				"name"		"Verdana"
-				"tall"		"15"	[$WIN32]
+				"tall"		"20"	[$WIN32]
 				"tall"		"25"	[$X360]
 				"weight"	"900"
 				"yres"		"1200 10000"
