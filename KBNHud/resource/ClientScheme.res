@@ -1496,11 +1496,11 @@ Scheme
 		{
 			"1"
 			{
-			"name"		"Courier"
-			"tall"		"20"
-			"weight"	"0"
-			"range"		"0x0000 0x017F"
-			"outline"	"1"
+				"name"		"Courier"
+				"tall"		"20"
+				"weight"	"0"
+				"range"		"0x0000 0x017F"
+				"outline"	"1"
 			}
 		}
 		"Default"
@@ -4951,8 +4951,8 @@ Scheme
 			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"8"	
 		}
-	}
-	QuickplayBorder
+
+		QuickplayBorder
 		{
 			"inset" "0 0 1 1"
 			Left
@@ -5135,7 +5135,6 @@ Scheme
 		ReplayBrowser.ScrollBar.SliderButton.Border
 		{
 		}
-
 	}
 }
 
