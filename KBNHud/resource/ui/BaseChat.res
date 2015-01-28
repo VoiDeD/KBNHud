@@ -6,10 +6,10 @@
 		"fieldName" 		      "HudChat"
 		"visible" 		        "1"
 		"enabled" 		        "1"
-		"xpos"			          "7"
-		"ypos"			          "330"
+		"xpos"			          "3"
+		"ypos"			          "200"
 		"wide"	 		          "260"
-		"tall"	 		          "130"
+		"tall"	 		          "230"
 		"fgcolor"		"HudFontSmallBold"
 		"PaintBackgroundType"	"2"
 	}
