@@ -308,34 +308,33 @@
         "tall"               "25"
         "visible"            "1"
         "PaintBackgroundType" "2"
-		}
-	
-        "RespecTextLabelWin"
-        {
-            "ControlName"        "CExLabel"
-            "fieldName"          "RespecTextLabelWin"
-            "font"               "HudFontSmall"
-            "labelText"          "#TF_PVE_Respecs"
-            "textAlignment" 	 "center"
-            "xpos"               "0"
-            "ypos"               "3"
-            "wide"               "160"
-            "tall"               "20"
-            "fgcolor"            "tanlight"
-        }   
-        
-		"RespecCountLabel"
-        {
-            "ControlName"        "CExLabel"
-            "fieldName"          "RespecCountLabel"
-            "font"               "HudFontSmall"
-            "labelText"          "%respeccount%"
-            "textAlignment"		 "center"
-            "xpos"               "145"
-            "ypos"               "3"
-            "wide"               "30"
-            "tall"               "20"
-            "fgcolor"            "CreditsGreen"
-        }
 	}
+	
+    "RespecTextLabelWin"
+    {
+        "ControlName"        "CExLabel"
+        "fieldName"          "RespecTextLabelWin"
+        "font"               "HudFontSmall"
+        "labelText"          "#TF_PVE_Respecs"
+        "textAlignment" 	 "center"
+        "xpos"               "0"
+        "ypos"               "3"
+        "wide"               "160"
+        "tall"               "20"
+        "fgcolor"            "tanlight"
+    }   
+        
+	"RespecCountLabel"
+    {
+        "ControlName"        "CExLabel"
+        "fieldName"          "RespecCountLabel"
+        "font"               "HudFontSmall"
+        "labelText"          "%respeccount%"
+        "textAlignment"		 "center"
+        "xpos"               "145"
+        "ypos"               "3"
+        "wide"               "30"
+        "tall"               "20"
+        "fgcolor"            "CreditsGreen"
+    }
 }
