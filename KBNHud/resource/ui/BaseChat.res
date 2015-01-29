@@ -7,9 +7,9 @@
 		"visible" 		        "1"
 		"enabled" 		        "1"
 		"xpos"			          "3"
-		"ypos"			          "200"
+		"ypos"			          "300"
 		"wide"	 		          "260"
-		"tall"	 		          "230"
+		"tall"	 		          "160"
 		"fgcolor"		"HudFontSmallBold"
 		"PaintBackgroundType"	"2"
 	}
