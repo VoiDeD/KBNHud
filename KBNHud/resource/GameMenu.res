@@ -49,7 +49,7 @@
 	}
 	"KBNHudButton"
     {
-        "command" "engine play vo/pyro_laughshort01"
+        "command" "engine play vo/pyro_laughshort01.mp3"
         "label" "                         "
     }
 	"TrainingButton"
